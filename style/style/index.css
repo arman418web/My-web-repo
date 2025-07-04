@@ -1,0 +1,17 @@
+*{
+    background-color: rosybrown;
+    margin: 4px;
+}
+h1{
+    text-align: center;
+    
+}
+img{
+    width: 700px;
+   border: 1px solid black;
+   box-shadow: 2px 5px 5px 5px;
+   padding: 2px;
+   
+}
+
+
