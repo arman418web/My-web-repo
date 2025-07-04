@@ -81,7 +81,13 @@ body{
      border: 2px solid black;
     box-shadow: 2px 3px 3px ;
     text-align: center;
+    background-color: rgb(46, 46, 49);
     
  
 }
     
+.logbutton{
+  text-size-adjust:50%;
+    background-color: rgb(2, 115, 167);
+    
+}
