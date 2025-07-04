@@ -1,21 +1,45 @@
-*{
+* {
     background-color: rgb(205, 200, 200);
 }
-h1{
-    text-align:center;
+
+
+.img {
+    display: flex;
+    justify-content: center;
 }
-img{
-    width: 1200px;
+
+.img img {
+    width: 50%;
     border: 2px solid black;
     box-shadow: 2px 2px 6px 5px;
     border-radius: 4px;
+
 }
-h3{
+
+
+.headline {
     text-align: center;
 }
-h4{
+
+.into h3 {
     text-align: center;
 }
-div{
-    border: 2px solid black;
+
+.into p {
+    text-align: center;
+}
+
+
+.about {
+    border: none;
+    display: flex;
+    justify-content: center;
+}
+
+.aboutText {
+    border: 1px solid black;
+    padding: 4px 8px;
+    border-radius: 3px;
+     box-shadow: 1;
+
 }
