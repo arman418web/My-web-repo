@@ -2,11 +2,20 @@
     background-color: rgb(205, 200, 200);
 }
 h1{
-    text-align: center;
+    text-align:center;
 }
 img{
-    width: 900px;
+    width: 1200px;
     border: 2px solid black;
     box-shadow: 2px 2px 6px 5px;
     border-radius: 4px;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+div{
+    border: 2px solid black;
 }
