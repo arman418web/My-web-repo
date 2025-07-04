@@ -23,6 +23,7 @@
 
 .into h3 {
     text-align: center;
+    
 }
 
 .into p {
@@ -40,6 +41,26 @@
     border: 1px solid black;
     padding: 4px 8px;
     border-radius: 3px;
-     box-shadow: 1;
+     box-shadow: 2px 2px 4px;
 
 }
+.info{
+    border: 2px solid black;
+    display: flex;
+    display: inline-block;
+    padding: 4px;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 2px 3px 4px;
+    background-color: rgb(83, 79, 106);
+    
+
+}
+.info input{
+    border: 2px solid black;
+    box-shadow: 2px 3px 3px ;
+    text-align: center;
+    
+}
+.info 
+    
